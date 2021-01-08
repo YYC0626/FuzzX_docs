@@ -1,7 +1,9 @@
 # FuzzX Document
 
-这是“FuzzX”的说明文档。
+项目地址：[github.com/YYC0626/FuzzX_docs](https://github.com/YYC0626/FuzzX_docs)        
+说明文档：[yaoyuchen0626.gitbook.io/fuzzx/](https://yaoyuchen0626.gitbook.io/fuzzx/)        
 
+这是“FuzzX”的说明文档。
 
 ---
 
